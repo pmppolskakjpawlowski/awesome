@@ -1,3 +1,12 @@
+{
+x
+:Readme.md
+:Edit file
+including 
+:#ffffff code
+is are partof |PROJECT KOHERENCE|
+
+
 # awesome
 General Licence
 CC0 1.0 Universal.
