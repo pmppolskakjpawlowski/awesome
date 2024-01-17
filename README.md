@@ -7,14 +7,16 @@ including
 is are partof |PROJECT KOHERENCE|
 
 
-# awesome
-General Licence
-CC0 1.0 Universal.
+# awesome 
+that's why is named  1.0
+1.0 is {codetype%attributes"1.0%General_Licence/
+General Licence/
+CC0=Universe%atribute|complying#codetype|
 
 Statement of Purpose.
 
 The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator and
+exclusive Copyright and Related Rights (defined below) upon thcodetyping e creator and
 subsequent owner(s) (each and all, an "owner") of an original work of
 authorship and/or a database (each, a "Work").
 karol.jerzy.pawlowski/pmppolska
