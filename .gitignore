@@ -1,7 +1,11 @@
-{
-/
-:composer.phar
-/vendor/
+:COHERENCE:CIRCLE:CODE
+:composer 
+
+:#e82795612f8a92fb2f3f
+         
+    :#0000ff/
+:composer.pem
+ /vendor/
 
 # Commit your application's ulock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-unlock-file-to-version-control
 # To ignore a library file http://getcomposer.org/doc/02-libraries.md:#lock-file=
