@@ -1,9 +1,1 @@
-:|○#awesome|
-is the strictly prohibited 
-trademark of "k.j.pawlowski"
-and they is some type of 
-experimental function of codespace similarly 
-like:{sandbox}
-Using the coding and compiling 
-type |manifest:loop:circle |
-IS ONLY ON YOUR RESPONSIBILITY:
+https://github.com/pmppolskakjpawlowski/awesome/assets/148024532/b35316fe-3687-4a32-b1ed-2b13458bac29
