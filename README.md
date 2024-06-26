@@ -1,4 +1,4 @@
-<?xml version="1.0". encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
   <id>tag:www.githubstatus.com,2005:/history</id>
   <link rel="alternate" type="text/html" href="https://www.githubstatus.com"/>
